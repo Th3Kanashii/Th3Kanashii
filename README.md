@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hi there, I'm Kanashii!
 
 <!--
 **Th3Kanashii/Th3Kanashii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**I'm a 22 y.o. Python Developer (no), I love manga and programming.**
